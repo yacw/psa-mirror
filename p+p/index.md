@@ -17,8 +17,7 @@ We see this ofthen in politics.  The negative term "flip-flop" is repranded to t
 The boring term "estate tax" is rebranded as the "death tax".
 Though with these examples, in order to influence the desired emotion, different words are used.
 
-But now we're entering the new phase -- a far more dangerous phase, where instead of group rebranding an idea,
-<!-- triangular trade clip -->
+But now we're entering the new phase -- a far more dangerous phase, where instead of group rebranding an idea, <!-- triangular trade clip -->
 they're attemptying to redefine the word itself.
 The most notable example of this in fiction is in 1984, where the authoritarian ruling party created a new language in order to change the way people thought and could communicate their feelings.
 It was called Newspeak.
@@ -32,15 +31,15 @@ And in this video I will show you how the same thing is occurring today with the
 And it's not my interpretation or opinion that this attempt is ideologically drive and not in good faith.
 I will show you how the individuals who created and pushed for this redefinition were very explicit and open about their intentions and motivations.
 
-## Part 1
+## Academic Definition
 
 You may have been in the situation where you've seen someone on the internet say something like: *All white people suck, please retweet*
 
-And you say: **Objection!**, that's racist.
+And you say: **\<Objection!\>**, that's racist.
 
 To which they reply: *Racism against white people is impossible because racism equals prejudice plus power*
 
-> Well, the dictionary defines racism as hatred or intolerance of another race or races.
+*Well, the dictionary defines racism as hatred or intolerance of another race or races.*
 
 To which they say: *This is the academic definition, and therefore it makes it better*
 
@@ -209,6 +208,8 @@ Now you may have noticed that all the definitions I found were from introductory
 And there's a reason for that: it's because there's a lot of disagreement in the field of sociology on how to study, define, or even understand the concept of racism.
 And we'll be getting into that argument later.
 
+## The Real Origin
+
 So the question arises: if it's not an "academic" definition, and it's not the official sociology definition, what is it?
 
 Well, sit on down, boy and girls and let uncle Sitch to tell you the tale of P+P=R.
@@ -218,7 +219,7 @@ People were sitting around, saying: Hey guys, we need to word to describe how
 the white nazis went around trying to kill white jews and other white europeans.
 What should we call this ideology of judging people based on what we consider "race".
 
-Uuuuuuuuh.... Race... -ism?
+Uuuuuuuuh... Race... -ism?
 
 And thus the term racism was born.
 Yes, that's right, the term "racism" didn't come out of the 100+ years of horrendous enslavement,
@@ -234,7 +235,7 @@ Because a lot of the jews in Germany, before the nazis took over, were economica
 They had power.  That's part of how the nazis got other germans to turn on the jews.
 They labeled them as privileged oppressor keeping other germands down.
 
-So the jews *had* power in Germany.  You know, untilt they didn't
+So the jews *had* power in Germany.  You know, until they didn't
 
 2. This explains why the word "racist" in America is so powerful.
 
@@ -428,25 +429,495 @@ There's a reason they chose the word "racism" to redefine instead of "Racial Pre
 They're trying to piggy-back off of the already estabilished power the word "racist" has,
 and suddenly insert a different meaning to trick people into following their ideas.
 
+## Judith Katz
+
 Now even though Bidol created the term, she wasn't the one who popularized it.
 There are a few people who are mostly creditet with spreading P+P=R.
 One of them is Judith Katz.  Katz was also not a sociologist, but had a doctorate in education.
 Currently she's the executive vice-president and client brand lead of the Khalil Jameson consulting group.
 It's one of those organisations that large businesses pay to put on meetings for employees where they tell them how to not be horribly racist and sexist.
 
-In 1978 she wrote the "White Awarenees Handbook for anti-racism training"
+In 1978 she wrote the "[White Awarenees Handbook for anti-racism training][katz-white-awareness]"
 And if you hadn't guessed from the title, this is like Bidol's work,
 and it's not an academic paper, but it's literally a handbook for anti-racism training.
 But let's delve into it to see what we can learn.
 
+> This book is, therefore, designed for White people. It is a means to help us break out of the oppressor role and take a step toward being more fully human.
+>
+> [...]
+>
+> Affirmative Action efforts are being met with cries of "reverse discrimination."
+
+It's almost like they want to redefine racism just so they can win arguments against this point
+
+> Because of these conditions and the state of our society today, it is essential to focus on racism
+as it affects the oppressors namely, White people. This chapter will seek to establish the nature of racism
+as a White problem, describe its effects on Whites both psychologically and intellectually,
+and discuss the processes that are necessary to bring about change in the attitudes and behaviors of Whites.
+
+> Cries of reverse discrimination by Whites have also helped turn back the tide of change.
+
+Huh, wouldn't it be convenient if someone just came along and defined racism in a way so that racism against white people or "reverse racism" didn't exist?
+That would just be sooo helpful.
+
+> *Note to facilitator*
+> 1. Refer again to the definition of prejudice and differentiate it from racism.
+> By the end of this exercise these two terms should have distinct meanings for the participants.
+>
+> 2. It is important to push for the understanding that racism is prejudice plus power and that, therefore,
+> Third World people cannot be racist against Whites in the United States. Third World people can be prejudiced against Whites,
+> but clearly they do not have the power to enforce that prejudice.  Although participants may not at this point
+> totally accept this view or feel comfortable with it, it is important to establish the concept as a working definition.
+> As the course progresses, it will, it is hoped, be better understood by participants.
+
+> Despite all the writings in the field, little has been published on racism as it affects Whites.
+> Few strategies or materials have been designed to raise the consciousness of White people,
+> to help them identify racism in themselves and others, or to develop skills to facilitate change in the White community.
+
+Starting to see a pattern here?
+
+> In summary, racism is a White problem in that its development and perpetuation rest with White people.
+Whites created racism through the establishment of policies and practices that serve to their
+advantage and benefit and continue to oppress all minorities in the United States.
+Racism is perpetuated by Whites through their conscious and/or unconscious support of a culture
+and institutions that are founded on racist policies and practices.
+The racial prejudice of White people coupled with the economic, political, and social power to enforce
+discriminatory practices on every level of life cultural, institutional, and individual is the gestalt of White racism.
+Therefore, the "race problem" in America is essentially a *White* problem in that it is Whites who developed it, perpetuate it, and have the power to resolve it.
+>
+> [...]
+>
+> Several authors have probed the disease more deeply.
+
+Yes, Katz and several authors at the time actually thought racism should be classified as a mental illness.
+
+> Wendell Berry (1970), a White, describes racism as a disease with which he has been
+> afflicted from birth and from which, though he is trying to overcome it, he suffers every day.
+>
+> Racism has been diagnosed as a form of schizophrenia in that there is a large gap between what Whites believe
+> and what they actually practice, which causes them to live in a state of psychological stress
+>
+> [...]
+>
+> All these analyses clearly indicate that racism is a critical and pervasive form of mental illness.
+>
+> [...]
+>
+> Because United States culture is centered around White norms, White people rarely have to come to terms with that part of their identity.
+Ask a White person his or her race, and you may get the response "Italian," "Jewish,'' "Irish,'' "English," and so on.
+*White people do not see themselves as White.*  This is a way of denying responsibility for perpetuating the racist system
+and being part of the problem.  By seeing oneself solely as an individual, one can disown one's racism.
+
+Here you can see the insane and anti-liberal hole that the alt-left have fallen into.
+They've given up the hiveminded ideals of treating people as individuals and trying to achieve a colorblind society.
+Because then you can claim you're not racist!
+
+And they're so messed in the head they think peple will only care about racism if they can redefine reality so that all white people are automatically racist.
+This is classic motivated reasoning.  Katz is very explicit with the intention to change the way white people change think about racism and themselves.
+
+> From these studies it becomes sadly evident that the psychological disorder racism is deeply
+imbedded in White people from a very early age on both a conscious and an unconscious level.
+The disease has locked them in a psychological prison that victimizes and oppresses them every day of their lives (Barndt, 1970).
+
+It's pretty baffling that these people don't realize that in-group out-group preferences are biologically wired into your brain.
+This isn't just a "white person thing".  All humans must learn to not give into our basic instincts of racism.
+
+Interesting this "everything is a social construct" theory actually denies humanity to people based on their skin color.
+
+> White people as well as Third World people, have been miseducated about their true historical roots (Daniels, 1973).
+James Weldon Johnson (1960), equating White with Anglo-Saxon, discussed the issue:
+>
+> Can you name a single one of the great fundamental and intellectual achievements
+which have raised man in the scale of civilization that may be credited to the Anglo-Saxon?
+
+Yeah, let's just discount all of the things white people did that weren't Anglo-Saxons...
+
+> The art of letters, of poetry, of music, of sculpture, of painting, of the drama,
+of architecture; the science of mathematics, of astronomy, of philosophy,
+of logic, of physics, of chemistry, the use of metals, and the principles of mechanics,
+were all invented or discovered by darker and what we now call inferior races and nations...
+Do you know that the only original contribution to civilization we can claim
+is what we have done in steam and electricity and in making implements of war more deadly?
+
+First of all... it's hilarious that he's poo-pooing steam and electricity.
+You know, **the technologies that revolutionized the entire world**.
+Whatever, that's just not important at all.  Anglo-Saxons didn't do anything beyound that...
+
+> Isaac Newton, Charles Darwin, Lois Paster, Nicolaus Copernicus, Galileo Galilei, William Shakespeare...
+
+Nope, nothing at all.
+
+And look, I know Katz is quoting someone, but she decided to include this in a teaching handbook, that's pretty crazy.
+
+> The need for reeducation of White people is stressed in a statement by the United States Commision of Civil Rights (1970):
+"The principal task of those white Americans combating racism lies with the white community, rather than within non-white communities" (p. 39).
+>
+> [...]
+>
+> Given the lack of techniques available to deal with White racism, and conclusion that systematic training produces desired results
+(Authier, Gustafson, Guerney, and Kasdorf, 1975), it appears likely that this form of training can in fact
+change White people's racist attitudes and behaviors.  Such a training program is presented in this book.
+
+> BUY MY BOOK!
+>
+> BUY MY BOOK!
+>
+> **BUY MY BOOK!**
+>
+> ### **BUY MY BOOK!**
+
+> ## How to Use This Program
+>
+> The over-all objectives of the program are to help Whites become aware of how racism
+affects their lives and to help them change their racist attitudes and behaviors.
+The program strives to help Whites understand that racism in the United States
+is a White problem and that being White implies being racist.
+>
+> [...]
+>
+> Unlike many racism awareness programs, this program is not designed to produce guilt
+or to confront people in a way that "puts them down."
+
+I'm... sceptical of that.
+
+> Assumptions
+>
+> The following assumptions form the basis of this training problem:
+>
+> *Racism is a predominantly White problem.*  Therefore, being white in America implies being racist.
+
+That's a hell of an assumption.
+
+> White people are responsible for the perpetuation of White racism in a White racist system.
+
+Whether you agree or disagree with that statement, *I don't care*, because that's not the point.
+The point is that P+P=R was created to serve this ideological purpose.
+
+> Stage 1 lays the groundwork for participants to understand racism in society and in themselves.
+In this first stage, the key concepts prejudice and racism are explored.
+The participants become aware of the reality that *power* is the major factor differentiating racism and prejudice.
+
+"Becoming aware" is a nice way of saying "making people accept our redefinition of the word".
+
+> When you are using Stage 1 experiences only, it is essential to go slowly and avoid making participants defensive.
+
+This something I'd expect to hear a pick-up artist say...
+
+"So when you're in the classroom and you see a fine-looking girl you want to reeducate
+on the systemic structures of racism and her implicit biases.
+You gotta take it slooow.  You want to approach her confidently.
+But you can't call her a racist, that will only scare her off.  Ease into it if you want to score that goal.
+Don't tell her she's a racist, lead her to come to that conclusion herself."
 
 
+> A question often asked, particularly of racism training is, Are White people
+really changing, or are they merely becoming more knowledgable racists?
+I am convinced that awareness is not enough.  It is behavior that counts.
+My charge to the user of this program is to impress upon participants on
+the importance of changing not merely attitudes, but also behavior.
+Stokely Carmichael's adage, "If you're not part of the solution, you're part of the problem,"
+
+So allow me to redefine racism from an internal thought process to only refering to external systems of power.
+So I can justify my beliefs.
+
+> By processing participant's racism in Stage 1, the facilitator may shut them off.
+Racist remarks and language, such as discussion of "reverse racism," racist jokes,
+and/or expressions such as "blacklisting," and "black sheep" *[AN: whose origins have nothing to do with skin color]*
+should be noted and processed at a point when participants can hear the comments and understand them.
+What is important in this stage is that the facilitator beigns to develop a climate of trust and support.
+The degree of rapport that the facilitator has with the group, as well as the feeling on the group itself,
+will either help or seriously hinder the learning of the participants.
+
+I know they have, like, the best of intentions and everything, but I wouldn't be surprised
+if this is the same thing it says in the Scientology Indoctrination Handbook.
+
+> Rationale
+>
+> So that participants will truly comprehend racism as a predominantly White problem,
+they must be confronted with and become aware of the depth and breadth of racism in American society.
+>
+> [...]
+>
+> "blaming the victim" that is, negating the White problem; the responsibility of the White people
+for institutional racism; and the reality that "reverse racism" does not exist in America today.
+
+At least they said "today" and it was in the 70s.
+
+> An important dynamic to try to achieve in the group during this stage is ownership of racism as a White problem,
+including some acceptance of responsibility to make changes in the system to combat it.
+>
+> It is also crucial to focust on White people's behavior.  The group may ofthen attempt to change
+the focus of the discussion to identify instances and systems of Third World "racism" ("reverse racism").
+It is important to process this reaction and discuss the groups's need for flight from some of the real issues
+of racism in American society and from a close look at the American system as a whole, in which White racism is pervasive.
+
+Again, you can clearly se that P+P=R is completely motivated reasoning in order to push this ideology.
+This definition change is based around activism.
+
+> In the last stage one clear objective must be met if the training program is successful.
+Participants must leave it willing and ready to take action against racism.  This phase is called "becoming an anti-racist racist."
+An anti-racist racist is a white person who understands his or her racism, understands that,
+given the dynamics of racism in the United States today, he or she will always be racist,
+but takes action to try to combat it in situations where he or she has some power.
+
+Well isn't that just wonderful?  A really good way to motivate people to motivate racism.
+You can't be not-racist, all you can really hope to be is a racist who's against racism.
+Jee, I wonder why this kind of thinking didn't become mainstream back then?
+
+> In other words, an anti-racist racist is one who takes action to try to solve the White problem.
+The most important point of this training program is that *inaction is racism.*
+
+> ### The most important point of this training program is that **INACTION IS RACISM.**
+
+> We Whites must not only understand our racism how it developed and how it operates in our society
+and in our personal lives but *do* something with that knowledge that will effect some change in our racist system.
+That is the essence of the last stage and the purpose of the entire training program.
+
+> [It's all there, black and white, clear as crystal!][wonka-crystal-clear]
+
+There's one more thing about Katz that I want to share with you:
+she wrote an article on "[Valuing diversity on campus, A multicultural approach][valuing-diversity]".
+Much like White Awareness handbook, it's all about how to get white people to fight against racism.
+
+> Possibly, 1996 won't look so different from 1896, when the Plessey v. Ferguson decision was made.
+
+And if you actually think that, you're a fucking crazy person.
+
+> Although this prediction seems bleak, there is some cause for hope that it will not come to pass.
+
+That is, if you buy my "Anti-racism training in diversity program"!
+I guess she wasn't crazy, just a good salesman.
+
+> White culture results from a synthesis of ideas, values, and beliefs inherited from European ethnic groups in the United States.
+As *the* dominant one, White culture acts as the foundation of our organizations and social instutions by dictating its norms.
+
+So again, we see the strange desire to label American culture as white culture.  Which gets us into this realm,
+where the alt-right is arguing that American culture is white culture, thus we should kick out all the non-white people.
+And the radical left is *also arguing* that American culture is white culture, thus we should not
+promote assimilation and create separate standards for people, based on their skin color.
+
+Yeeeeahhh.  How about you both fuck off and we can go back to advocating for American culture to be *American*, and not predicated on skin color!
+
+And if you thought me comparing this to alt-right was unfair wait till you see this next part.
+
+> By understanding White culture, one can begin to see thow it has become the basis for institutional norms,
+and yet people of color are expected to feel valued by and comfortable with these norms.
+U.S. instutions need to consider how their systems would operate if White culture were not the only legitimate one.
+>
+> Table 1 outlines the basic elements of White culture.
+
+Let's see what Katz considers [The Components of White Culture][components-of-white-culture]:
+
+> ## Table 1
+> ## The Components of White culture: Values and Beliefs
+>
+> <table>
+>  <tr>
+>   <td>
+>
+>   *Rugged Individualism:*  
+>   Individual is a primary unit  
+>   Individual has primary responsibility  
+>   Independence and autonomy highly valued and rewarded  
+>   Individual can control environment  
+>
+>   *Competition*  
+>   Winning is everything  
+>   Win/lose dichotomy  
+>
+>   *Action Orientation:*  
+>   Must master and control nature  
+>   Must always do something about situation  
+>   Pragmatic/utilitarian view of life  
+>
+>   *Decision Making:*  
+>   Majority rule when whites have power  
+>   Hierarchical  
+>   Pyaramid structure  
+>
+>   *Communication:*  
+>   Standard English  
+>   Written tradition  
+>   Direct eye contact  
+>   Limited physical contact  
+>   Controlled emotions  
+>
+>   *Time:*  
+>   Adherence to rigid time schedule  
+>   Time is viewed as a commodity  
+>
+>   *History:*  
+>   Based on European immigrant's experience in United States  
+>   Romanticize war  
+>
+>   </td>
+>   <td>
+>
+>   *Protestant Work Ethic:*  
+>   Working hard brings success  
+>
+>   *Progress and Future Orientation:*  
+>   Plan for future  
+>   Delayed gratification  
+>   Value continual improvement and progress  
+>
+>   *Emphasis on Scientific Method:*  
+>   Objective, rational, linear thinking  
+>   Cause and effect relationship  
+>   Quantitative emphasis  
+>   Dualistic thinking  
+>
+>   *Status and Power:*  
+>   Measured by economic possessions  
+>   Credentials, titles, and positions  
+>   Believe "own" system  
+>   Believe better than other systems  
+>   Owning goods, space, property  
+>
+>   *Family structure:*  
+>   Nuclear family is the ideal social unit  
+>   Man is a breadwinner and he the head of the household  
+>   Woman is homemaker and subordinate to the husband  
+>   Patriarchal structure  
+>
+>   *Aesthetics:*  
+>   Music and art based on European cultures  
+>   Women's beauty is based on blonde, blue-eyed, thin, young  
+>   Men's attractiveness based on athletic ability, power, economic status  
+>
+>   *Religion:*  
+>   Believe in Christianity  
+>   No tolerance for deviation from single god concept  
+>
+>   </td>
+>  </tr>
+> </table>
+
+> *Rugged Individualism:*  
+> Individual is a primary unit  
+> Individual has primary responsibility  
+> Independence and autonomy highly valued and rewarded  
+> Individual can control environment
+
+Yes, these are all terrible values which should not be taught to people of color.
+
+> *Action Orientation:*  
+> Must master and control nature  
+> Must always do something about situation  
+> Pragmatic/utilitarian view of life
+
+Oh my god, the horrible racists.
+
+> *Communication:*  
+> Standard English  
+> Written tradition  
+> Direct eye contact  
+> Limited physical contact  
+> Controlled emotions
+
+Wait a minute, white people are Vulkans!
+<!-- did you know that this is actually a jewish hand sign? -->
+
+> *Time:*  
+> Adherence to rigid time schedule  
+> Time is viewed as a commodity
+
+Wow, that sounds *really* racist.
+<!--
+- What?  What is this "CPT"?
+- That means the plane is going to get here when it gets here.
+They picked the wrong Airlines!
+- And don't come here complain' and shiet!
+-->
+And it's really funny because the only other time I've heard someone complain that this notion of time is a "white people thing"
+was in a very racist article where he says "Africans just don't white's people notions of time and schedule."
+
+> *Protestant Work Ethic:*  
+> Working hard brings success
+
+Yes, we definitely don't want to teach non-whites something like *that*.
+
+> *Progress and Future Orientation:*  
+> Plan for future  
+> Delayed gratification  
+> Value continual improvement and progress
+
+This is, like, straight out of the KKK handbook.
+
+> *Emphasis on Scientific Method:*  
+> Objective, rational, linear thinking  
+> Cause and effect relationship  
+> Quantitative emphasis  
+> Dualistic thinking
+
+These are all the terrible horrible things that white people are trying to imprint on the poor people of color in this country.
+Oh, the humanity!
+
+And in case you though the emphasis on the scientific method was weird, she brings it up multiple times.
+
+> White culture also emphasizes the scientific method, which focuses attention on quantitative research.
+>
+> [...]
+>
+> **Trap 3: Perceptions don't count--or--data, data, and more data**
+>
+> Managers can also impede the development of a multicultural system by repeating requesting data about the problem,
+To avoid taking action for change, an official asks for more research to prove a problem exists.
+This reliance on data obscures the pain that people actually experience as a result of discrimination.
+As Peters and Waterman (1982)point out, perceptions are real and need to be taken as such.
+Colleges and universities are particularly prone to falling into this trap because they
+routinely rely on quantitative research to "prove" reality.
+
+Oooh, I get it!  Because you can't prove your case with fact, we should just, you know, do away with the importance of the scientific method.
+*<sarcasm>Good plan!</sarcasm>*
+
+> In short, universities and other educational institutions are entirely based on White cultural norms and value.
+
+You mean, American norms and values.  In the country of America that's a good things.
+
+> Finally, individual racism thrives on passivity.  Individuals support racism by failing
+to confront and challange the cultural, institutional, and individual acts of oppression they see.
+Doing nothing or remaining silent supports discrimination.
+
+> **Trap 5: Let's not upset anyone**
+>
+> Cries of "reverse discrimination" often hamper institutional efforts.
+Such outbursts are actually positive signs that the system and the rules are shifting.
+When people of color and women are upset in an organization, few people seem concerned;
+when White men begin to feel that changes are occuring, the movement often stops.
+To avoid this trap, the significant people must recognize cries of reverse discrimination
+as positive signs and be prepared to help threatened individuals understand how the system
+is changing and how they can adapt to the new rules.
+
+Ooooh. So no wonder you want to go with the definition of racism that makes "reverse racism" impossible.
+Because it's a sign of progress.
+
+## Conclusion
+
+So as you can very clearly see, this definition change was intentionally created and pushed in order to get white people to think about racism and themselves differently.
+It was an attempt to dismantle arguments they thought stood in the way of progress.
+And try and force all white people to take action in dismantling this "racist" system.
+
+So the next time someone tells you that P+P=R is the "academic definition" you can say: It was a definition created by activists in the 70's in order to win an ideological argument.
+It was not based in facts or science, or any of that dreaded "scientific method".
+
+So where does the sociology angle come into all of this?  Because even if they didn't create it, there are now some sociologists advocating for P+P=R as well.
+Are these sociologists also trying to push this redefinition in order to win an ideological argument
+and are acting backwards to prove their wordlview by redefining the tools they're supposed to study the world?  
+The short answer is **Yes**.
+
+The long answer is... see you in part two!
 
 [psa-snitch]: https://www.youtube.com/watch?v=ZqqdmRUGoOA "You Are Racist! The Truth and Origin of Power + Prejudice = Racism. (P+P=R)"
 [openstax-introduction]: https://cnx.org/contents/r-QzKsl_@10.1:TVjaVSK5@6/Stereotypes-Prejudice-and-Discrimination "Introduction to Sociology, OpenStax"
 [opendictionary-racism]: https://sociologydictionary.org/racism/ "Open Education Sociology Dictionary - racism"
+[wonka-crystal-clear]: https://www.youtube.com/watch?v=zSQNl4V_R88 "Gene Wilder Willy Wonka's famous rant - YOU LOSE! GOOD DAY, SIR!"
 [wikibooks-racism]: https://en.wikibooks.org/wiki/Introduction_to_Sociology/Race_and_Ethnicity#Racism "Wikibooks - Introduction to Sociology / Race and Ethnicity / Racism"
 [sociology-holt-ch10]: https://slideplayer.com/slide/1448638/ "Sociology: The Study of Human Relationships by *Holt, Rinehart and Winston*"
+[katz-white-awareness]: http://gen.lib.rus.ec/search.php?req=Katz+White+Awareness "White Awareness: A Handbook for Anti-Racism Training, Judith H. Katz"
+[valuing-diversity]: https://archive.org/details/ERIC_ED319280/page/n11 "Valuing Diversity on Campus: A Multicultural Approach. College Unions At Work Monograph Series Number 11"
+[components-of-white-culture]: valuing-diversity-values.png "The Components of White culture: Values and Beliefs"
+
 [worst-meme]: https://www.youtube.com/results?search_query=dabbing+on+them+haters "Dabbing on them haters"
 [second-worst-meme]: https://xkcd.com/1357/ "xkcd: Free Speech"
 [out-of-time]: https://en.wikipedia.org/wiki/Bible "Holy Bible"
